@@ -71,6 +71,7 @@ set pastetoggle=<C-a>
 set sm
 set sw=4
 set ts=4
+set noexpandtab
 set t_Co=256
 set whichwrap=b,s,<,>,[,]
 set statusline+=%f
