@@ -20,7 +20,7 @@ set relativenumber
 " nmap <leader>v "+gp
 " endif
 filetype plugin on
-set rtp+=~/.vim/bundle/vundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
 " call vundle#rc()
 call vundle#begin()
 Bundle 'taglist.vim'
