@@ -75,7 +75,8 @@ set noexpandtab
 set t_Co=256
 set whichwrap=b,s,<,>,[,]
 set statusline+=%f
-set tags=/Users/jiamingwei/codespace/postgres/tags
+set tags=./tags
+set autochdir
 filetype indent on
 
 au BufNewFile,BufRead *akefile set noexpandtab
